@@ -59,6 +59,7 @@ PalindromOrNot(fdig);
 // и находит расстояние между ними в 3D пространстве
 // (AB = квадратный корень из суммы квадрат(Хb-Xa) , квадрат(Yb-Ya) , квадрат(Zb-Za)).
 
+/*
 // блок придумывания названия функции
 void Pathfinder(int Xa, int Ya, int Za, int Xb, int Yb, int Zb){
 
@@ -97,3 +98,4 @@ Pathfinder(Xa, Ya, Za, Xb, Yb, Zb);
 
 
 
+*/
